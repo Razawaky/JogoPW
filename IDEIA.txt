@@ -1,0 +1,7 @@
+a ideia principal é fazer o jogo do mario
+
+o adirano supôs da gente fazer uma adição de pular em algum bicho e assim ganha mais ponto, podemos tentar
+
+uma ideia q talvez a gente possa tentar, oq creio q talvez n seja tao complicado é, poder escolher qual mario jogar, se é o mario 1, 2, 3 e talvez o 3d
+
+ou se optarmos por uma coisa mais simples, só mudar o personagem é uma boa, tipo pros 4 principais (mario, luigi, toad e  toadette) ou só os dois importantes (mario e luigi)
