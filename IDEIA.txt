@@ -18,6 +18,8 @@ ou se optarmos por uma coisa mais simples, só mudar o personagem é uma boa, ti
 
 -Item de ajuda(pode ser uma estrelinha) que deixa o Mario invensivel por alguns segundos;
 
+-Colocar moedas para o Mario coletar;
+
 
 *Bugs e problemas a serem resolvidos 
 
