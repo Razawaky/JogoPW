@@ -5,3 +5,28 @@ o adirano supôs da gente fazer uma adição de pular em algum bicho e assim gan
 uma ideia q talvez a gente possa tentar, oq creio q talvez n seja tao complicado é, poder escolher qual mario jogar, se é o mario 1, 2, 3 e talvez o 3d
 
 ou se optarmos por uma coisa mais simples, só mudar o personagem é uma boa, tipo pros 4 principais (mario, luigi, toad e  toadette) ou só os dois importantes (mario e luigi)
+
+
+
+*Sugestão do Duarte
+
+-Colocar um placar de score/tempo e ir aumentando a dificuldade apartir do score;
+
+-Colocar outros elementos visuais relacionado ao Mario;
+
+-Tela de morte e reloader;
+
+-Item de ajuda(pode ser uma estrelinha) que deixa o Mario invensivel por alguns segundos;
+
+
+*Bugs e problemas a serem resolvidos 
+
+-As nuvens não param quando o Mario morre;
+
+-Hitbox do Mario com problema, ele passa do cano, porém, mesmo assim ele morre;
+
+-Isso em si não é um problema, contudo, me incomoda: a velocidade da queda do mario após pular e o tamanho de seu pulo;
+
+-Bug nas teclas de ação. Ao clicar em qualquer tecla, o Mario pula do mesmo jeito, não importa se é a tecla 'F' ou a setinha;
+
+-Bug no pulo. Ao clicar duas vezes no seta de pular, ele pula e volta ao chão, meio que faz ele subir alguns px e logo após ele volta ao 0;
