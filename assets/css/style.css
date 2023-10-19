@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Poppins&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -19,13 +21,13 @@
     background-size: 11vh;
     background-repeat: repeat;
     width: 100%;
-    height: 21.6vh;
+    height: 37.3vh;
+    animation: pipe-animation 1.4s infinite linear;
 }
 
 .game-board {
     width: 100%;
     height: 500px;
-    
     margin: 0 auto;
     position: relative;
     overflow: hidden;
@@ -95,6 +97,18 @@
     to {
         right: 100%;
     }
+}
+
+.score{
+    font-size: 2REM;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    background: black;
+    width: 100px;
+    text-align: center;
+    border-radius: 5rem;
+    margin: 10px;
+    font-weight: 700;
 }
 
 /* @keyframes floor-move {
