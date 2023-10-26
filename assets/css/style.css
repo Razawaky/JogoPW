@@ -102,13 +102,28 @@
 .score{
     font-size: 2REM;
     font-family: 'Poppins', sans-serif;
-    color: rgb(255, 255, 255);
-    background: black;
+    color: rgb(0, 0, 0);
     width: 100px;
     text-align: center;
-    border-radius: 5rem;
-    margin: 10px;
-    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-left: 3rem;
+}
+
+.pontos{
+    color: rgb(3, 3, 3);
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 1.8rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+hr{
+    width: 200px;
+    margin-left: 10px;
+    border: 1px solid black;
+    
 }
 
 /* @keyframes floor-move {
